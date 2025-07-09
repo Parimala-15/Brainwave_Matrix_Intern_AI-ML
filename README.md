@@ -21,7 +21,7 @@ This repository showcases the **internship work completed by Parimala Dharshini*
   - Bilateral filters via OpenCV
 - Visualized and compared different enhancement outputs
 
-🔗 [View Full Project Repository](https://github.com/Parimala-15/Brainwave_Matrix_Intern_AI-ML/blob/main/cleaned_Text_Image_Generation.ipynb) *(update if needed)*
+🔗 [View Full Project Repository](https://github.com/Parimala-15/Brainwave_Matrix_Intern_AI-ML/blob/main/cleaned_Text_Image_Generation.ipynb) 
 
 ---
 
