@@ -76,6 +76,6 @@ pip install torch torchvision matplotlib opencv-python
 📜 License
 This project is based on OpenAI’s GLIDE repository and follows the MIT License.
 
-Author
+Author :
 Parimala Dharshini
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/parimala-dharshini-903b4a271)
