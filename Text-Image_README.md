@@ -65,12 +65,6 @@ cd glide-text2im
 pip install git+https://github.com/openai/glide-text2im
 pip install torch torchvision matplotlib opencv-python
 
-📜 License
-This project is based on OpenAI’s GLIDE repository and follows the MIT License.
-
-Author
-Parimala Dharshini
-🔗 LinkedIn Profile
 
 🌱 Future Enhancements
 🧠 Enable CLIP-guided generation for higher semantic accuracy
@@ -78,3 +72,10 @@ Parimala Dharshini
 💻 Streamlit/Gradio web interface for real-time text-to-image generation
 🔁 Prompt batch processing or style mixing
 
+---
+📜 License
+This project is based on OpenAI’s GLIDE repository and follows the MIT License.
+
+Author
+Parimala Dharshini
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/parimala-dharshini-903b4a271)
