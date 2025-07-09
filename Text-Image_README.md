@@ -54,11 +54,16 @@ The results are displayed side-by-side in a matplotlib figure to compare origina
 ---
 ![image](https://github.com/user-attachments/assets/cabce438-32a0-43e3-8f75-02fb077ec9c7)
 
+🌱 Future Enhancements
+🧠 Enable CLIP-guided generation for higher semantic accuracy
+🖼️ Add support for inpainting or image editing with masks
+💻 Streamlit/Gradio web interface for real-time text-to-image generation
+🔁 Prompt batch processing or style mixing
 
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/openai/glide-text2im.git
 cd glide-text2im
 
@@ -66,11 +71,6 @@ pip install git+https://github.com/openai/glide-text2im
 pip install torch torchvision matplotlib opencv-python
 
 
-🌱 Future Enhancements
-🧠 Enable CLIP-guided generation for higher semantic accuracy
-🖼️ Add support for inpainting or image editing with masks
-💻 Streamlit/Gradio web interface for real-time text-to-image generation
-🔁 Prompt batch processing or style mixing
 
 ---
 📜 License
