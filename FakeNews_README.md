@@ -5,7 +5,7 @@ This project aims to identify whether a given news article is **real or fake** u
 ---
 
 ## 📌 Project Overview
-
+Dataset: https://drive.google.com/drive/folders/1tAKatHyuMIRH19hdvmrnsr5yiiuHCXc6?usp=drive_link
 Misinformation and fake news have become increasingly prevalent, especially on social media platforms. This Fake News Detection system takes a textual news input and classifies it as **Fake** or **Real**.
 
 🔍 The project uses:
